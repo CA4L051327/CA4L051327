@@ -1,4 +1,4 @@
-# Olá, sou o CarlosHenrique
+# Olá, sou o Carlos Henrique
 
 - Atualmente trabalhando com Infraestrutrura  
 - Estudando Python e Front-End
