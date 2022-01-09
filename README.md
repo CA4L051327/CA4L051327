@@ -1,7 +1,7 @@
 # Olá, sou o Carlos Henrique
 
 - Atualmente trabalho com Infraestrutrura/Redes  
-- Estudando Python, C, Front-End, PHP e JavaScript - Conhecimento Intermeadiário em ambas linguagens
+- Estudando Python, C, Front-End, PHP e JavaScript - Conhecimento Intermediário em ambas linguagens
 - Cursando Sistemas de Informação 7/8
 
 <div align="center">
